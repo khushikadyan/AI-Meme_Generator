@@ -1,0 +1,6 @@
+cleaned_memes.csv
+memes.json/memes.json
+
+# Ignore unnecessary system files
+.DS_Store
+Thumbs.db
