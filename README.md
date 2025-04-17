@@ -55,7 +55,7 @@ python app.py
 cd frontend/reactUI
 npm install
 npm start
-
+```
 
 ## project by - Khushi Kadyan
 linkedin-https://www.linkedin.com/in/khushi-kadyan-03s12a2004r/
